@@ -1,0 +1,14 @@
+[2024-02-28 03:53:54] [cache_controller::purge_cache_queue_write] queue file not exist
+[2024-02-28 03:53:54] [cache_controller::litespeed_single_post_hooks] Purge Cloudflare cache for only post 13235 - Fired action: litespeed_api_purge_post
+[2024-02-28 03:54:55] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2024-02-28 03:54:55] [cache_controller::purge_opcache] Purge OPcache cache
+[2024-02-28 03:54:55] [cache_controller::purge_object_cache] Purge object cache
+[2024-02-28 03:54:55] [cache_controller::purge_urls] Purged specific URLs from Cloudflare cache
+[2024-02-28 03:54:55] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2024-02-28 04:08:48] [cache_controller::purge_cache_queue_write] queue file not exist
+[2024-02-28 04:08:48] [cache_controller::litespeed_single_post_hooks] Purge Cloudflare cache for only post 13236 - Fired action: litespeed_api_purge_post
+[2024-02-28 04:08:49] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2024-02-28 04:08:49] [cache_controller::purge_opcache] Purge OPcache cache
+[2024-02-28 04:08:49] [cache_controller::purge_object_cache] Purge object cache
+[2024-02-28 04:08:49] [cache_controller::purge_urls] Purged specific URLs from Cloudflare cache
+[2024-02-28 04:08:49] [cache_controller::purge_cache_queue_job] Cache purging complete

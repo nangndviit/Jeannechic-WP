@@ -1,0 +1,112 @@
+
+---Downloaded files---
+The import files for: Shoptimizer Demo Data were successfully downloaded!
+Initial max execution time = 400
+Files info:
+Site URL = http://bdnsold.com
+Data file = /home/bdnsold.com/public_html/wp-content/uploads/2024/01/demo-content-import-file_2024-01-22__10-18-23.xml
+Widget file = /home/bdnsold.com/public_html/wp-content/uploads/2024/01/demo-widgets-import-file_2024-01-22__10-18-23.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+---Importing widgets---
+Sidebar : 
+
+Product Categories - Product categories - Imported
+Filter Products by Attribute - Filter by size - Imported
+Filter Products by Attribute - Filter by color - Imported
+Filter Products by Price - Filter by price - Imported
+Products by Rating list - Top rated products - Imported
+Product Tag Cloud - Tags - Imported
+
+Sidebar Posts : 
+
+Text - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Sidebar Pages : 
+
+Recent Posts - No Title - Imported
+Meta - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Below Header : 
+
+Text - No Title - Imported
+
+Top Bar Left : 
+
+Text - No Title - Imported
+
+Top Bar Center : 
+
+Text - No Title - Imported
+
+Top Bar Right : 
+
+Custom HTML - No Title - Imported
+
+Single Product Custom Area : 
+
+Text - No Title - Imported
+
+Floating Button Modal Content : 
+
+Text - No Title - Imported
+
+Cart Custom Area : 
+
+Text - No Title - Imported
+
+Checkout Custom Area : 
+
+Text - No Title - Imported
+
+Below Content : 
+
+Custom HTML - Free Worldwide shipping - Imported
+Custom HTML - Easy 30 days returns - Imported
+Custom HTML - International Warranty - Imported
+Custom HTML - 100% Secure Checkout - Imported
+
+Footer : 
+
+Text - About - Imported
+Text - Help - Imported
+Text - Follow - Imported
+Text - Over 1,000 5-star reviews - Imported
+
+Copyright : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+
+Mobile Extra : 
+
+Text - No Title - Imported
+
+
+
+---ocdi/after_import---
+<div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;bdnsold_com_84bd.wp_84bd1ae_aioseo_search_statistics_objects&#039; doesn&#039;t exist]<br /><code>SELECT 
+	*
+FROM wp_84bd1ae_aioseo_search_statistics_objects
+WHERE 1 = 1 AND
+	`object_path_hash` = &#039;42099b4af021e53fd8fd4e056c2568d7c2e3ffa8&#039;
+/* 1 = 1 */</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;bdnsold_com_84bd.wp_84bd1ae_aioseo_search_statistics_objects&#039; doesn&#039;t exist]<br /><code>SHOW COLUMNS FROM `wp_84bd1ae_aioseo_search_statistics_objects`</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;bdnsold_com_84bd.wp_84bd1ae_aioseo_search_statistics_objects&#039; doesn&#039;t exist]<br /><code>SELECT 
+	*
+FROM wp_84bd1ae_aioseo_search_statistics_objects
+WHERE 1 = 1 AND
+	`object_id` = 7105
+	AND `object_type` = &#039;post&#039;
+/* 1 = 1 */</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;bdnsold_com_84bd.wp_84bd1ae_aioseo_search_statistics_objects&#039; doesn&#039;t exist]<br /><code>SHOW COLUMNS FROM `wp_84bd1ae_aioseo_search_statistics_objects`</code></p></div><div id="error"><p class="wpdberror"><strong>WordPress database error:</strong> [Table &#039;bdnsold_com_84bd.wp_84bd1ae_aioseo_search_statistics_objects&#039; doesn&#039;t exist]<br /><code>INSERT INTO wp_84bd1ae_aioseo_search_statistics_objects (
+				`object_id`, `object_type`, `object_subtype`, `object_path`, `object_path_hash`,
+				`seo_score`, `inspection_result`, `inspection_result_date`, `indexed`, `created`, `updated`
+			)
+			VALUES (7105, &#039;post&#039;, &#039;page&#039;, &#039;/&#039;, &#039;42099b4af021e53fd8fd4e056c2568d7c2e3ffa8&#039;, 0, &#039;&#039;, &#039;&#039;, 0, &#039;2024-01-22 03:18:33&#039;, &#039;2024-01-22 03:18:33&#039;)</code></p></div>Shoptimizer demo content imported!

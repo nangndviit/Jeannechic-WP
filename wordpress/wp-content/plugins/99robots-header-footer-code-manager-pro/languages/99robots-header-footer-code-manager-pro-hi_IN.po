@@ -1,0 +1,985 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Header Footer Code Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 18:14+0530\n"
+"PO-Revision-Date: 2022-08-23 18:15+0530\n"
+"Last-Translator: fran <abhij89@gmail.com>\n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;_e:1;_c:1;"
+"_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: hi_IN\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../99robots-header-footer-code-manager-pro.php:286
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:286
+msgid "Header Footer Code Manager"
+msgstr "हैडर फूटर कोड मैनेजर"
+
+#: ../99robots-header-footer-code-manager-pro.php:287
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:287
+msgid "HFCM Pro"
+msgstr ""
+
+#: ../99robots-header-footer-code-manager-pro.php:297
+#: ../99robots-header-footer-code-manager-pro.php:298
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:297
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:298
+msgid "All Snippets"
+msgstr "सभी स्निपेट"
+
+#: ../99robots-header-footer-code-manager-pro.php:307
+#: ../99robots-header-footer-code-manager-pro.php:2034
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:307
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2032
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:29
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:32
+#: ../includes/hfcm-pro-add-edit.php:29 ../includes/hfcm-pro-add-edit.php:32
+msgid "Add New Snippet"
+msgstr "नया स्निपेट जोड़ें"
+
+#: ../99robots-header-footer-code-manager-pro.php:308
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:308
+msgid "Add New"
+msgstr "नया जोड़ें"
+
+#: ../99robots-header-footer-code-manager-pro.php:317
+#: ../99robots-header-footer-code-manager-pro.php:318
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:317
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:318
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:457
+#: ../includes/class-hfcm-pro-snippets-list.php:469
+msgid "All Tags"
+msgstr "टैग सूची"
+
+#: ../99robots-header-footer-code-manager-pro.php:327
+#: ../99robots-header-footer-code-manager-pro.php:328
+#: ../99robots-header-footer-code-manager-pro.php:2092
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:327
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:328
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2090
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:28
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:31
+#: ../includes/hfcm-pro-add-edit-tag.php:28 ../includes/hfcm-pro-add-edit-tag.php:31
+msgid "Add New Tag"
+msgstr "नया टैग जोड़ें"
+
+#: ../99robots-header-footer-code-manager-pro.php:337
+#: ../99robots-header-footer-code-manager-pro.php:338
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:337
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:338
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:23
+#: ../includes/hfcm-pro-tools.php:23
+msgid "Tools"
+msgstr "टूल्स"
+
+#: ../99robots-header-footer-code-manager-pro.php:347
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:347
+msgid "Update Script"
+msgstr "स्क्रिप्ट अपडेट करें"
+
+#: ../99robots-header-footer-code-manager-pro.php:348
+#: ../99robots-header-footer-code-manager-pro.php:358
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:348
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:358
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:80
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:516
+#: ../includes/hfcm-pro-add-edit-tag.php:80 ../includes/hfcm-pro-add-edit.php:527
+msgid "Update"
+msgstr "अपडेट करें"
+
+#: ../99robots-header-footer-code-manager-pro.php:357
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:357
+msgid "Update Tag"
+msgstr "टैग अपडेट करें"
+
+#: ../99robots-header-footer-code-manager-pro.php:367
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:367
+msgid "Request Handler Script"
+msgstr "अनुरोध हैंडलर स्क्रिप्ट"
+
+#: ../99robots-header-footer-code-manager-pro.php:368
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:368
+msgid "Request Handler"
+msgstr "अनुरोध हैंडलर"
+
+#: ../99robots-header-footer-code-manager-pro.php:377
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:377
+msgid "Tags Request Handler Script"
+msgstr "टैग अनुरोध हैंडलर स्क्रिप्ट"
+
+#: ../99robots-header-footer-code-manager-pro.php:378
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:378
+msgid "Tags Request Handler"
+msgstr "टैग अनुरोध हैंडलर"
+
+#: ../99robots-header-footer-code-manager-pro.php:387
+#: ../99robots-header-footer-code-manager-pro.php:388
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:387
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:388
+msgid "Duplicate Script"
+msgstr "डुप्लीकेट स्क्रिप्ट"
+
+#: ../99robots-header-footer-code-manager-pro.php:396
+#: ../99robots-header-footer-code-manager-pro.php:397
+#: ../99robots-header-footer-code-manager-pro.php:409
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:396
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:397
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:409
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: ../99robots-header-footer-code-manager-pro.php:449
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:449
+msgid ""
+"Hey there! You’ve been using the <strong>Header Footer Code Manager</strong> plugin for a "
+"while now. If you like the plugin, please support our awesome development and support team "
+"by leaving a <a class=\"hfcm-pro-review-stars\" href=\"https://wordpress.org/support/plugin/"
+"header-footer-code-manager/reviews/\"><span class=\"dashicons dashicons-star-filled\"></"
+"span><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons "
+"dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span "
+"class=\"dashicons dashicons-star-filled\"></span></a> rating. <a href=\"https://wordpress."
+"org/support/plugin/header-footer-code-manager/reviews/\">Rate it!</a> It’ll mean the world "
+"to us and keep this plugin free and constantly updated. <a href=\"https://wordpress.org/"
+"support/plugin/header-footer-code-manager/reviews/\">Leave A Review</a>"
+msgstr ""
+"नमस्ते! आप पिछले कुछ समय से <strong>हैडर फूटर कोड मैनेजर</strong> प्लगइन का उपयोग कर रहे हैं। यदि आप "
+"प्लगइन पसंद करते हैं, तो कृपया <a class=\"hfcm-review-stars\" href=\"https://wordpress.org/"
+"support/plugin/header-footer-code-manager/reviews/\"><span class=\"dashicons dashicons-star-"
+"filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span class="
+"\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled"
+"\"></span><span class=\"dashicons dashicons-star-filled\"></span></a>रेटिंग देकर हमारी शानदार "
+"विकास और सहायता टीम का समर्थन करें। <a href=\"https://wordpress.org/support/plugin/header-"
+"footer-code-manager/reviews/\">इसे रेट करें!</a> यह हमारे लिए दुनिया का मतलब होगा और इस प्लगइन को "
+"नि: शुल्क और लगातार अपडेट रखेगा। <a href=\"https://wordpress.org/support/plugin/header-footer-"
+"code-manager/reviews/\">समीक्षा लिखें</a>"
+
+#: ../99robots-header-footer-code-manager-pro.php:469
+#: ../includes/class-hfcm-pro-snippets-list.php:215 ../includes/hfcm-pro-add-edit.php:82
+#: ../includes/hfcm-pro-add-edit.php:514
+msgid ""
+"Note: We have changed the way php snippets are executed to support a broader range of php "
+"snippets.  PHP Snippets will no longer specify a location (header, footer, etc).  For "
+"snippets created prior to v1.0.11 that relied on HFCM to specify the location (header, "
+"footer) - these will need to be converted to a new format. For more information - click <a "
+"href=\"https://draftpress.com/docs/header-footer-code-manager-pro/\" target=\"_blank"
+"\">here</a>. Also, please note that once you edit and save a legacy snippet, the location "
+"will be changed to execute everywhere."
+msgstr ""
+"नोट: हमने PHP स्निपेट्स की विस्तृत श्रृंखला का समर्थन करने के लिए PHP स्निपेट्स को निष्पादित करने के तरीके को "
+"बदल दिया है। PHP स्निपेट अब कोई स्थान निर्दिष्ट नहीं करेगा (शीर्षलेख, पाद लेख, आदि)। v1.0.11 से पहले "
+"बनाए गए स्निपेट के लिए जो स्थान (हेडर, फ़ुटर) निर्दिष्ट करने के लिए HFCM पर निर्भर थे - इन्हें एक नए प्रारूप "
+"में बदलने की आवश्यकता होगी। अधिक जानकारी के लिए - यहां क्लिक <a href=\"https://draftpress.com/docs/"
+"header-footer-code-manager-pro/\" target=\"_blank\">करें</a> । साथ ही, कृपया ध्यान दें कि एक बार "
+"जब आप किसी लीगेसी स्निपेट को संपादित और सहेज लेते हैं, तो स्थान को हर जगह निष्पादित करने के लिए बदल दिया "
+"जाएगा।"
+
+#: ../99robots-header-footer-code-manager-pro.php:2011
+#: ../99robots-header-footer-code-manager-pro.php:2082
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2009
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2080
+msgid ""
+"Please deactivate the free version of this plugin in order to avoid duplication of the "
+"snippets.\n"
+"                    You can use our tools to import all the snippets from the free version "
+"of this plugin."
+msgstr ""
+"स्निपेट्स के दोहराव से बचने के लिए कृपया इस प्लगइन के मुफ़्त संस्करण को निष्क्रिय करें।\n"
+"                     आप इस प्लगइन के मुफ्त संस्करण से सभी स्निपेट आयात करने के लिए हमारे टूल का उपयोग कर "
+"सकते हैं।"
+
+#: ../99robots-header-footer-code-manager-pro.php:2032
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2030
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:18
+#: ../includes/class-hfcm-pro-snippets-list.php:18
+msgid "Snippets"
+msgstr "स्निपेट्स"
+
+#: ../99robots-header-footer-code-manager-pro.php:2040
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2038
+msgid "Search Snippets"
+msgstr "स्निपेट खोजें"
+
+#: ../99robots-header-footer-code-manager-pro.php:2090
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2088
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-tags-list.php:18
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:451
+#: ../includes/class-hfcm-pro-tags-list.php:18 ../includes/hfcm-pro-add-edit.php:462
+msgid "Tags"
+msgstr "टैग"
+
+#: ../99robots-header-footer-code-manager-pro.php:2098
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2096
+msgid "Search Tags"
+msgstr "टैग खोजें"
+
+#: ../99robots-header-footer-code-manager-pro.php:2186
+#: ../99robots-header-footer-code-manager-pro.php:2201
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2184
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2199
+msgid "Please upload a valid import file"
+msgstr "कृपया एक मान्य आयात फ़ाइल अपलोड करें"
+
+#: ../99robots-header-footer-code-manager-pro.php:2329
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2327
+msgid "Plugin License Options"
+msgstr "प्लगइन लाइसेंस विकल्प"
+
+#: ../99robots-header-footer-code-manager-pro.php:2338
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2336
+msgid "License Key"
+msgstr "लाइसेंस कुंजी"
+
+#: ../99robots-header-footer-code-manager-pro.php:2344
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2342
+msgid "Enter your license key"
+msgstr "अपनी लाइसेंस कुंजी दर्ज करें"
+
+#: ../99robots-header-footer-code-manager-pro.php:2350
+#: ../99robots-header-footer-code-manager-pro.php:2361
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2348
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2359
+msgid "Activate License"
+msgstr "लाइसेंस सक्रिय करें"
+
+#: ../99robots-header-footer-code-manager-pro.php:2354
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2352
+msgid "active"
+msgstr "सक्रिय"
+
+#: ../99robots-header-footer-code-manager-pro.php:2357
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2355
+msgid "Deactivate License"
+msgstr "लाइसेंस निष्क्रिय करें"
+
+#: ../99robots-header-footer-code-manager-pro.php:2373
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2371
+msgid "Snippet Settings"
+msgstr "स्निपेट सेटिंग्स"
+
+#: ../99robots-header-footer-code-manager-pro.php:2383
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2381
+msgid "Validate PHP Snippets Before Saving?"
+msgstr "सेव करने से पहले PHP स्निपेट की पुष्टि करें?"
+
+#: ../99robots-header-footer-code-manager-pro.php:2430
+#: ../99robots-header-footer-code-manager-pro.php:2464
+#: ../99robots-header-footer-code-manager-pro.php:2511
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2428
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2462
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2509
+msgid "An error occurred, please try again."
+msgstr "एक त्रुटि पाई गई। कृपया पुन: प्रयास करें।"
+
+#: ../99robots-header-footer-code-manager-pro.php:2437
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2435
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "आपकी लाइसेंस कुंजी %s को समाप्त हो गई है।"
+
+#: ../99robots-header-footer-code-manager-pro.php:2443
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2441
+msgid "Your license key has been disabled."
+msgstr "आपकी लाइसेंस कुंजी अक्षम कर दी गई है."
+
+#: ../99robots-header-footer-code-manager-pro.php:2447
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2445
+msgid "Invalid license."
+msgstr "अवैध लाइसेंस।"
+
+#: ../99robots-header-footer-code-manager-pro.php:2452
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2450
+msgid "Your license is not active for this URL."
+msgstr "इस यूआरएल के लिए आपका लाइसेंस सक्रिय नहीं है।"
+
+#: ../99robots-header-footer-code-manager-pro.php:2456
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2454
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr "यह %s के लिए अमान्य लाइसेंस कुंजी प्रतीत होता है।"
+
+#: ../99robots-header-footer-code-manager-pro.php:2460
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:2458
+msgid "Your license key has reached its activation limit."
+msgstr "आपकी लाइसेंस कुंजी अपनी सक्रियण सीमा तक पहुंच गई है।"
+
+#: ../99robots-header-footer-code-manager-pro/99robots-header-footer-code-manager-pro.php:468
+msgid ""
+"Note: We have changed the way we execute the php snippets. All the php snippets now will be "
+"executed during the WordPress initialization. We recommend converting the old snippets to "
+"the new format. For more click <a href=\"https://draftpress.com/docs/header-footer-code-"
+"manager-pro/\" target=\"_blank\">here</a>."
+msgstr ""
+"नोट: हमने php स्निपेट्स को निष्पादित करने के तरीके को बदल दिया है। सभी PHP स्निपेट अब वर्डप्रेस "
+"इनिशियलाइज़ेशन के दौरान निष्पादित किए जाएंगे। हम पुराने स्निपेट को नए प्रारूप में बदलने की सलाह देते हैं। अधिक "
+"के लिए यहां क्लिक <a href=\"https://draftpress.com/docs/header-footer-code-manager-pro/\" "
+"target=\"_blank\">करें</a> ।"
+
+#: ../99robots-header-footer-code-manager-pro/includes/EDD_SL_Plugin_Updater.php:257
+#: ../includes/EDD_SL_Plugin_Updater.php:257
+#, php-format
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: ../99robots-header-footer-code-manager-pro/includes/EDD_SL_Plugin_Updater.php:265
+#: ../includes/EDD_SL_Plugin_Updater.php:265
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate "
+"now%6$s."
+msgstr ""
+
+#: ../99robots-header-footer-code-manager-pro/includes/EDD_SL_Plugin_Updater.php:514
+#: ../includes/EDD_SL_Plugin_Updater.php:514
+msgid "You do not have permission to install plugin updates"
+msgstr "आपको प्लगइन अपडेट स्थापित करने की अनुमति नहीं है"
+
+#: ../99robots-header-footer-code-manager-pro/includes/EDD_SL_Plugin_Updater.php:514
+#: ../includes/EDD_SL_Plugin_Updater.php:514
+msgid "Error"
+msgstr "गलती"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:17
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:493
+#: ../includes/class-hfcm-pro-snippets-list.php:17 ../includes/hfcm-pro-add-edit.php:504
+msgid "Snippet"
+msgstr "स्निपेट"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:198
+#: ../includes/class-hfcm-pro-snippets-list.php:198
+msgid "No Snippets available."
+msgstr "कोई स्निपेट्स उपलब्ध नहीं."
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:218
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:118
+#: ../includes/class-hfcm-pro-snippets-list.php:223 ../includes/hfcm-pro-add-edit.php:129
+msgid "Site Wide"
+msgstr "साइट व्यापक"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:219
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:119
+#: ../includes/class-hfcm-pro-snippets-list.php:224 ../includes/hfcm-pro-add-edit.php:130
+msgid "Specific Posts"
+msgstr "विशिष्ट पोस्ट्स"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:220
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:120
+#: ../includes/class-hfcm-pro-snippets-list.php:225 ../includes/hfcm-pro-add-edit.php:131
+msgid "Specific Pages"
+msgstr "विशिष्ट पृष्ठ"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:221
+#: ../includes/class-hfcm-pro-snippets-list.php:226
+msgid "Specific Categories"
+msgstr "विशिष्ट श्रेणियों"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:222
+#: ../includes/class-hfcm-pro-snippets-list.php:227
+msgid "Specific Custom Post Types"
+msgstr "विशिष्ट कस्टम पोस्ट प्रकार"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:223
+#: ../includes/class-hfcm-pro-snippets-list.php:228
+msgid "Specific Tags"
+msgstr "विशिष्ट टैग"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:224
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:124
+#: ../includes/class-hfcm-pro-snippets-list.php:229 ../includes/hfcm-pro-add-edit.php:135
+msgid "Home Page"
+msgstr "होम पेज"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:225
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:125
+#: ../includes/class-hfcm-pro-snippets-list.php:230 ../includes/hfcm-pro-add-edit.php:136
+msgid "Search Page"
+msgstr "खोज पृष्ठ"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:226
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:126
+#: ../includes/class-hfcm-pro-snippets-list.php:231 ../includes/hfcm-pro-add-edit.php:137
+msgid "Archive Page"
+msgstr "संग्रह पृष्ठ"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:227
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:127
+#: ../includes/class-hfcm-pro-snippets-list.php:232 ../includes/hfcm-pro-add-edit.php:138
+msgid "Latest Posts"
+msgstr "नवीनतम पोस्ट"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:228
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:128
+#: ../includes/class-hfcm-pro-snippets-list.php:233 ../includes/hfcm-pro-add-edit.php:139
+msgid "Shortcode Only"
+msgstr "केवल छोटे संकेत"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:229
+#: ../includes/class-hfcm-pro-snippets-list.php:234
+msgid "Admin"
+msgstr "एडमिन"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:245
+#: ../includes/class-hfcm-pro-snippets-list.php:250
+msgid "No post selected"
+msgstr "कोई पोस्ट चयनित नहीं"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:254
+#: ../includes/class-hfcm-pro-snippets-list.php:259
+msgid "N/A"
+msgstr ""
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:258
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:12
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:13
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:9
+#: ../includes/class-hfcm-pro-snippets-list.php:263 ../includes/hfcm-pro-add-edit-tag.php:12
+#: ../includes/hfcm-pro-add-edit.php:13 ../includes/hfcm-pro-tools.php:9
+msgid "Header"
+msgstr "हैडर"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:259
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:13
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:14
+#: ../includes/class-hfcm-pro-snippets-list.php:264 ../includes/hfcm-pro-add-edit-tag.php:13
+#: ../includes/hfcm-pro-add-edit.php:14
+msgid "Body Open"
+msgstr "बॉडी ओपन"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:260
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:14
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:15
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:10
+#: ../includes/class-hfcm-pro-snippets-list.php:265 ../includes/hfcm-pro-add-edit-tag.php:14
+#: ../includes/hfcm-pro-add-edit.php:15 ../includes/hfcm-pro-tools.php:10
+msgid "Before Content"
+msgstr "प्रकरण से पहले"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:261
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:15
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:16
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:11
+#: ../includes/class-hfcm-pro-snippets-list.php:266 ../includes/hfcm-pro-add-edit-tag.php:15
+#: ../includes/hfcm-pro-add-edit.php:16 ../includes/hfcm-pro-tools.php:11
+msgid "After Content"
+msgstr "प्रकरण के बाद"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:262
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:16
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:17
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:12
+#: ../includes/class-hfcm-pro-snippets-list.php:267 ../includes/hfcm-pro-add-edit-tag.php:16
+#: ../includes/hfcm-pro-add-edit.php:17 ../includes/hfcm-pro-tools.php:12
+msgid "Footer"
+msgstr "फूटर"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:263
+#: ../includes/class-hfcm-pro-snippets-list.php:268
+msgid "Everywhere"
+msgstr "हर जगह"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:270
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:368
+#: ../includes/class-hfcm-pro-snippets-list.php:275 ../includes/hfcm-pro-add-edit.php:379
+msgid "Show on All Devices"
+msgstr "सभी उपकरणों पर दिखाना"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:272
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:370
+#: ../includes/class-hfcm-pro-snippets-list.php:277 ../includes/hfcm-pro-add-edit.php:381
+msgid "Only Mobile Devices"
+msgstr "केवल मोबाइल उपकरणों"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:274
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:369
+#: ../includes/class-hfcm-pro-snippets-list.php:279 ../includes/hfcm-pro-add-edit.php:380
+msgid "Only Desktop"
+msgstr "केवल डेस्कटॉप"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:280
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:429
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:95
+#: ../includes/class-hfcm-pro-snippets-list.php:285
+#: ../includes/class-hfcm-pro-snippets-list.php:441 ../includes/hfcm-pro-add-edit.php:106
+msgid "HTML"
+msgstr ""
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:281
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:430
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:96
+#: ../includes/class-hfcm-pro-snippets-list.php:286
+#: ../includes/class-hfcm-pro-snippets-list.php:442 ../includes/hfcm-pro-add-edit.php:107
+msgid "CSS"
+msgstr "सीएसएस"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:282
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:431
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:97
+#: ../includes/class-hfcm-pro-snippets-list.php:287
+#: ../includes/class-hfcm-pro-snippets-list.php:443 ../includes/hfcm-pro-add-edit.php:108
+msgid "Javascript"
+msgstr "जावास्क्रिप्ट"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:283
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:432
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:98
+#: ../includes/class-hfcm-pro-snippets-list.php:288
+#: ../includes/class-hfcm-pro-snippets-list.php:444 ../includes/hfcm-pro-add-edit.php:109
+msgid "PHP"
+msgstr ""
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:357
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-tags-list.php:180
+#: ../includes/class-hfcm-pro-snippets-list.php:368
+#: ../includes/class-hfcm-pro-tags-list.php:180
+msgid "Edit"
+msgstr "संपादित करें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:358
+#: ../includes/class-hfcm-pro-snippets-list.php:369
+msgid "Duplicate"
+msgstr "डुप्लिकेट"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:359
+#: ../includes/class-hfcm-pro-snippets-list.php:370
+msgid "Copy Shortcode"
+msgstr "शोर्टकोड कॉपी करें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:360
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-tags-list.php:181
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:86
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:523
+#: ../includes/class-hfcm-pro-snippets-list.php:371
+#: ../includes/class-hfcm-pro-tags-list.php:181 ../includes/hfcm-pro-add-edit-tag.php:86
+#: ../includes/hfcm-pro-add-edit.php:534
+msgid "Delete"
+msgstr "मिटाएं"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:375
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-tags-list.php:196
+#: ../includes/class-hfcm-pro-snippets-list.php:386
+#: ../includes/class-hfcm-pro-tags-list.php:196
+msgid "ID"
+msgstr "आईडी"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:376
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:422
+#: ../includes/class-hfcm-pro-snippets-list.php:388 ../includes/hfcm-pro-add-edit.php:433
+msgid "Status"
+msgstr "स्थिति"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:377
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:88
+#: ../includes/class-hfcm-pro-snippets-list.php:389 ../includes/hfcm-pro-add-edit.php:99
+msgid "Snippet Name"
+msgstr "स्निपेट नाम"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:378
+#: ../includes/class-hfcm-pro-snippets-list.php:390
+msgid "Display On"
+msgstr "पर प्रदर्शन"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:379
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:349
+#: ../includes/class-hfcm-pro-snippets-list.php:391 ../includes/hfcm-pro-add-edit.php:360
+msgid "Location"
+msgstr "स्थान"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:380
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:101
+#: ../includes/class-hfcm-pro-snippets-list.php:392 ../includes/hfcm-pro-add-edit.php:112
+msgid "Snippet Type"
+msgstr "स्निपेट प्रकार"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:381
+#: ../includes/class-hfcm-pro-snippets-list.php:393
+msgid "Devices"
+msgstr "उपकरण"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:382
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:463
+#: ../includes/class-hfcm-pro-snippets-list.php:394 ../includes/hfcm-pro-add-edit.php:474
+msgid "Shortcode"
+msgstr "छोटे संकेत"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:412
+#: ../includes/class-hfcm-pro-snippets-list.php:424
+msgid "Activate"
+msgstr "सक्रिय करें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:413
+#: ../includes/class-hfcm-pro-snippets-list.php:425
+msgid "Deactivate"
+msgstr "निष्क्रिय करें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:414
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-tags-list.php:226
+#: ../includes/class-hfcm-pro-snippets-list.php:426
+#: ../includes/class-hfcm-pro-tags-list.php:226
+msgid "Remove"
+msgstr "हटा दें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:437
+#: ../includes/class-hfcm-pro-snippets-list.php:449
+msgid "All Snippet Types"
+msgstr "सभी प्रकार के स्निपेट"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:467
+#: ../includes/class-hfcm-pro-snippets-list.php:479
+msgid "Filter"
+msgstr "फिल्टर"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:527
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:374
+#: ../includes/class-hfcm-pro-snippets-list.php:539 ../includes/hfcm-pro-add-edit.php:385
+msgid "All"
+msgstr "सभी टुकड़े"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:532
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:380
+#: ../includes/class-hfcm-pro-snippets-list.php:544 ../includes/hfcm-pro-add-edit.php:391
+msgid "Active"
+msgstr "सक्रिय"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-snippets-list.php:537
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:381
+#: ../includes/class-hfcm-pro-snippets-list.php:549 ../includes/hfcm-pro-add-edit.php:392
+msgid "Inactive"
+msgstr "निष्क्रिय"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-tags-list.php:17
+#: ../includes/class-hfcm-pro-tags-list.php:17
+msgid "Tag"
+msgstr "टैग"
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-tags-list.php:124
+#: ../includes/class-hfcm-pro-tags-list.php:124
+msgid "No Tags available."
+msgstr "कोई टैग उपलब्ध नहीं."
+
+#: ../99robots-header-footer-code-manager-pro/includes/class-hfcm-pro-tags-list.php:197
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:69
+#: ../includes/class-hfcm-pro-tags-list.php:197 ../includes/hfcm-pro-add-edit-tag.php:69
+msgid "Tag Name"
+msgstr "टैग का नाम"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:28
+#: ../includes/hfcm-pro-add-edit-tag.php:28
+msgid "Edit Tag"
+msgstr "टैग संपादित करें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:40
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:41
+#: ../includes/hfcm-pro-add-edit-tag.php:40 ../includes/hfcm-pro-add-edit.php:41
+msgid "Script updated"
+msgstr "स्क्रिप्ट अपडेट की गई"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:42
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:47
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:43
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:48
+#: ../includes/hfcm-pro-add-edit-tag.php:42 ../includes/hfcm-pro-add-edit-tag.php:47
+#: ../includes/hfcm-pro-add-edit.php:43 ../includes/hfcm-pro-add-edit.php:48
+msgid "Back to list"
+msgstr "दोबारा सूची पर जाएं"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:45
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:46
+#: ../includes/hfcm-pro-add-edit-tag.php:45 ../includes/hfcm-pro-add-edit.php:46
+msgid "Script Added Successfully"
+msgstr "स्क्रिप्ट सफलतापूर्वक जोड़ी गई"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit-tag.php:80
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:516
+#: ../includes/hfcm-pro-add-edit-tag.php:80 ../includes/hfcm-pro-add-edit.php:527
+msgid "Save"
+msgstr "जमा करें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:29
+#: ../includes/hfcm-pro-add-edit.php:29
+msgid "Edit Snippet"
+msgstr "स्निपेट सम्पादन"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:121
+#: ../includes/hfcm-pro-add-edit.php:132
+msgid "Specific Categories (Archive & Posts)"
+msgstr "विशिष्ट श्रेणियाँ (संग्रह और पोस्ट)"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:122
+#: ../includes/hfcm-pro-add-edit.php:133
+msgid "Specific Post Types (Archive & Posts)"
+msgstr "विशिष्ट पोस्ट प्रकार (संग्रह और पोस्ट)"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:123
+#: ../includes/hfcm-pro-add-edit.php:134
+msgid "Specific Tags (Archive & Posts)"
+msgstr "विशिष्ट टैग (संग्रह और पोस्ट)"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:129
+#: ../includes/hfcm-pro-add-edit.php:140
+msgid "Admin (WP Backend)"
+msgstr "व्यवस्थापक (WP बैकएंड)"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:132
+#: ../includes/hfcm-pro-add-edit.php:143
+msgid "Site Display"
+msgstr "साइट प्रदर्शन"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:184
+#: ../includes/hfcm-pro-add-edit.php:195
+msgid "Exclude Pages"
+msgstr "पृष्ठों को बाहर करें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:202
+#: ../includes/hfcm-pro-add-edit.php:213
+msgid "Exclude Posts"
+msgstr "पोस्ट को बाहर करें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:220
+#: ../includes/hfcm-pro-add-edit.php:231
+msgid "Page List"
+msgstr "पेज सूची"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:237
+#: ../includes/hfcm-pro-add-edit.php:248
+msgid "Post List"
+msgstr "पोस्ट सूची"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:269
+#: ../includes/hfcm-pro-add-edit.php:280
+msgid "Category List"
+msgstr "श्रेणी सूची"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:287
+#: ../includes/hfcm-pro-add-edit.php:298
+msgid "Tags List"
+msgstr "टैग सूची"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:305
+#: ../includes/hfcm-pro-add-edit.php:316
+msgid "Post Types"
+msgstr "पोस्ट प्रकार"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:321
+#: ../includes/hfcm-pro-add-edit.php:332
+msgid "Post Count"
+msgstr "पोस्ट गिनती"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:363
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:443
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:446
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:457
+#: ../includes/hfcm-pro-add-edit.php:374 ../includes/hfcm-pro-add-edit.php:454
+#: ../includes/hfcm-pro-add-edit.php:457 ../includes/hfcm-pro-add-edit.php:468
+msgid "Note"
+msgstr "ध्यान दें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:363
+#: ../includes/hfcm-pro-add-edit.php:374
+msgid ""
+"Not all locations (such as before content and body tags) exist on all page/post types. The "
+"location will only appear as an option if the appropriate hook exists on the page."
+msgstr ""
+"सभी पेज/पोस्ट प्रकारों पर सभी स्थान (जैसे कि प्रकरण से पहले) मौजूद नहीं हैं। स्थान केवल एक विकल्प के रूप में "
+"दिखाई देगा यदि पृष्ठ पर उपयुक्त हुक मौजूद है।"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:375
+#: ../includes/hfcm-pro-add-edit.php:386
+msgid "Logged In Users"
+msgstr "लॉग इन उपयोगकर्ता"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:376
+#: ../includes/hfcm-pro-add-edit.php:387
+msgid "Non Logged In Users"
+msgstr "गैर लॉग इन उपयोगकर्ता"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:390
+#: ../includes/hfcm-pro-add-edit.php:401
+msgid "Device Display"
+msgstr "डिवाइस प्रदर्शन"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:406
+#: ../includes/hfcm-pro-add-edit.php:417
+msgid "Display To"
+msgstr "इसे प्रदर्शित करें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:438
+#: ../includes/hfcm-pro-add-edit.php:449
+msgid "Priority"
+msgstr "प्राथमिकता"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:443
+#: ../includes/hfcm-pro-add-edit.php:454
+msgid "In case of equal priority, latest snippet will render first."
+msgstr "समान प्राथमिकता के मामले में, नवीनतम स्निपेट पहले प्रस्तुत करेगा।"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:446
+#: ../includes/hfcm-pro-add-edit.php:457
+msgid "Lower priority snippet will render first, higher priority snippet will render last."
+msgstr "निम्न प्राथमिकता वाला स्निपेट पहले रेंडर होगा, उच्च प्राथमिकता वाला स्निपेट अंतिम रेंडर करेगा।"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:457
+#: ../includes/hfcm-pro-add-edit.php:468
+msgid "Please enter tags as comma separated"
+msgstr "कृपया अल्पविराम से अलग किए गए टैग दर्ज करें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:470
+#: ../includes/hfcm-pro-add-edit.php:481
+msgid "Copy"
+msgstr "कॉपी"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:477
+#: ../includes/hfcm-pro-add-edit.php:488
+msgid "Changelog"
+msgstr "चैंज लॉग"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:480
+#: ../includes/hfcm-pro-add-edit.php:491
+msgid "Snippet created by"
+msgstr "के द्वारा बनाई गई स्निपेट"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:481
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:485
+#: ../includes/hfcm-pro-add-edit.php:492 ../includes/hfcm-pro-add-edit.php:496
+msgid "on"
+msgstr "पर"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:481
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:485
+#: ../includes/hfcm-pro-add-edit.php:492 ../includes/hfcm-pro-add-edit.php:496
+msgid "at"
+msgstr "पर"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:484
+#: ../includes/hfcm-pro-add-edit.php:495
+msgid "Last edited by"
+msgstr "अंतिम बार संपादित द्वारा"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:494
+#: ../includes/hfcm-pro-add-edit.php:505
+msgid "Code"
+msgstr "कोड"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:496
+#: ../includes/hfcm-pro-add-edit.php:507
+msgid ""
+"Warning: You’re adding a PHP snippet to the site. Please make sure the code you’re adding "
+"is absolutely correct. Adding bad or improperly written code may result in site crashes "
+"causing you to be locked out of your site. Do this at your own risk."
+msgstr ""
+"चेतावनी: आप साइट पर एक PHP स्निपेट जोड़ रहे हैं। कृपया सुनिश्चित करें कि आप जो कोड जोड़ रहे हैं वह बिल्कुल "
+"सही है। गलत या गलत तरीके से लिखा गया कोड जोड़ने से साइट क्रैश हो सकती है जिसके कारण आप अपनी साइट से "
+"लॉक हो सकते हैं। ये काम आप अपनी जोखिम पर करें।"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-add-edit.php:503
+msgid ""
+"Note: We have changed the way we execute the php snippets. All the php snippets now will be "
+"executed during the WordPress initialization. We recommend converting the old snippets to "
+"the new format. For more click <a href=\"https://draftpress.com/docs/header-footer-code-"
+"manager-pro/\" target=\"_blank\">here</a>. Also, please note that once you save the legacy "
+"snippet it will be updated to execute everywhere."
+msgstr ""
+"नोट: हमने php स्निपेट्स को निष्पादित करने के तरीके को बदल दिया है। सभी PHP स्निपेट अब वर्डप्रेस "
+"इनिशियलाइज़ेशन के दौरान निष्पादित किए जाएंगे। हम पुराने स्निपेट को नए प्रारूप में बदलने की सलाह देते हैं। अधिक "
+"के लिए यहां क्लिक <a href=\"https://draftpress.com/docs/header-footer-code-manager-pro/\" "
+"target=\"_blank\">करें</a> । साथ ही, कृपया ध्यान दें कि एक बार जब आप लीगेसी स्निपेट को सहेज लेते हैं तो "
+"इसे हर जगह निष्पादित करने के लिए अपडेट किया जाएगा।"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:30
+#: ../includes/hfcm-pro-tools.php:30
+msgid "Export Snippets"
+msgstr "निर्यात स्निपेट"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:37
+#: ../includes/hfcm-pro-tools.php:37
+msgid ""
+"Select the snippets you would like to export and then select your export method. Use the\n"
+"                            download button to export to a .json file which you can then "
+"import to another HFCM\n"
+"                            installation"
+msgstr ""
+"उन स्निपेट का चयन करें जिन्हें आप निर्यात करना चाहते हैं और फिर अपनी निर्यात विधि चुनें। एक .json फ़ाइल में "
+"निर्यात करने के लिए डाउनलोड बटन का उपयोग करें जिसे आप फिर किसी अन्य HFCM स्थापना में आयात कर सकते हैं"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:43
+#: ../includes/hfcm-pro-tools.php:43
+msgid ""
+"NOTE: Import/Export Functionality is only intended to operate within the same website.  "
+"Using the export/import to move snippets from one website to a different site, may result "
+"in inconsistent behavior, particularly if you have specific elements as criteria such as "
+"pages, posts, categories, or tags."
+msgstr ""
+"नोट: आयात/निर्यात कार्यक्षमता केवल उसी वेबसाइट के भीतर संचालित करने के लिए अभिप्रेत है। स्निपेट को एक "
+"वेबसाइट से दूसरी साइट पर ले जाने के लिए निर्यात/आयात का उपयोग करने के परिणामस्वरूप असंगत व्यवहार हो सकता "
+"है, खासकर यदि आपके पास विशिष्ट तत्व जैसे पृष्ठ, पोस्ट, श्रेणियां या टैग हैं।"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:49
+#: ../includes/hfcm-pro-tools.php:49
+msgid "Select Snippets"
+msgstr "स्निपेट्स का चयन करें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:75
+#: ../includes/hfcm-pro-tools.php:75
+msgid "Export File"
+msgstr "निर्यात फ़ाइल"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:85
+#: ../includes/hfcm-pro-tools.php:85
+msgid "Import Snippets"
+msgstr "स्निपेट आयात करें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:92
+#: ../includes/hfcm-pro-tools.php:92
+msgid ""
+"Select the HFCM JSON file you would like to import. When you click the import button "
+"below,\n"
+"                            HFCM will import the field groups."
+msgstr ""
+"वह HFCM JSON फ़ाइल चुनें जिसे आप आयात करना चाहते हैं। जब आप नीचे दिए गए आयात बटन पर क्लिक करते हैं, तो "
+"HFCM फ़ील्ड समूहों को आयात करेगा।"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:101
+#: ../includes/hfcm-pro-tools.php:101
+msgid "Select File"
+msgstr "फ़ाइल का चयन करें"
+
+#: ../99robots-header-footer-code-manager-pro/includes/hfcm-pro-tools.php:118
+#: ../includes/hfcm-pro-tools.php:118
+msgid "Import"
+msgstr "आयात"
+
+#: ../includes/class-hfcm-pro-snippets-list.php:318
+msgid ""
+"Note: We have changed the way php snippets are executed to support a broader range of php "
+"snippets.  PHP Snippets will no longer specify a location (header, footer, etc).  For "
+"snippets created prior to v1.0.11 that relied on HFCM to specify the location (header, "
+"footer) - these will need to be converted to a new format. For more information - go to "
+"https://draftpress.com/docs/header-footer-code-manager-pro/. Also, please note that once "
+"you edit and save a legacy snippet, the location will be changed to execute everywhere."
+msgstr ""
+"नोट: हमने PHP स्निपेट्स की विस्तृत श्रृंखला का समर्थन करने के लिए PHP स्निपेट्स को निष्पादित करने के तरीके को "
+"बदल दिया है। PHP स्निपेट अब कोई स्थान निर्दिष्ट नहीं करेगा (शीर्षलेख, पाद लेख, आदि)। v1.0.11 से पहले "
+"बनाए गए स्निपेट के लिए जो स्थान (हेडर, फ़ुटर) निर्दिष्ट करने के लिए HFCM पर निर्भर थे - इन्हें एक नए प्रारूप "
+"में बदलने की आवश्यकता होगी। अधिक जानकारी के लिए - https://draftpress.com/docs/header-footer-code-"
+"manager-pro/ पर जाएं। साथ ही, कृपया ध्यान दें कि एक बार जब आप किसी लीगेसी स्निपेट को संपादित और सहेज "
+"लेते हैं, तो स्थान को हर जगह निष्पादित करने के लिए बदल दिया जाएगा।"
+
+#, fuzzy
+#~| msgid "Validate PHP Snippets Before Saving?"
+#~ msgid "Validate Snippets Before Saving?"
+#~ msgstr "सेव करने से पहले PHP स्निपेट की पुष्टि करें?"
+
+#~ msgid "Tag created on"
+#~ msgstr "टैग बनाया गया"
+
+#~ msgid "Snippet will only execute if the placement hook exists on the page"
+#~ msgstr "पृष्ठ पर प्लेसमेंट हुक मौजूद होने पर ही स्निपेट निष्पादित होगा"

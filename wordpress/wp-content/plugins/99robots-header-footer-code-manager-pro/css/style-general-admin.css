@@ -1,0 +1,126 @@
+.hfcm-pro-review-stars {
+    text-decoration: none;
+}
+
+.hfcm-pro-review-stars span {
+    font-size: 16px;
+    width: 16px;
+    height: 16px;
+    margin-top: 2px;
+}
+
+.hfcm-pro-dismiss-alert {
+    position: static !important;
+    float: right;
+    top: 0 !important;
+    right: 0 !important;
+    padding: 0 15px 10px 28px !important;
+    margin-top: -10px !important;
+    font-size: 13px;
+    line-height: 1.23076923;
+    text-decoration: none;
+}
+
+.hfcm-pro-dismiss-alert:before {
+    position: relative;
+    top: 18px;
+    left: -20px;
+}
+
+#hfcm-pro-message {
+    position: relative;
+}
+.hfcm-pro-meta-box-wrap.hfcm-pro-grid .postbox {
+    float: left;
+    clear: left;
+    width: 50%;
+    margin: 0 0 16px;
+}
+.hfcm-pro-meta-box-wrap.hfcm-pro-grid .postbox:nth-child(even) {
+    float: right;
+    clear: right;
+    margin-right: -8px;
+}
+.hfcm-pro-meta-box-wrap.hfcm-pro-grid {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.hfcm-pro-meta-box-wrap .postbox {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.hfcm-pro-meta-box-wrap .postbox .hndle {
+    font-size: 14px;
+    padding: 8px 12px;
+    margin: 0;
+    line-height: 1.4;
+    position: relative;
+    z-index: 1;
+    cursor: default;
+}
+.hfcm-pro-meta-box-wrap.hfcm-pro-grid .postbox:nth-child(odd) {
+    margin-left: -8px;
+}
+.hfcm-pro-meta-box-wrap.hfcm-pro-grid .hfcm-notice {
+    margin: 5px 0 15px;
+    background: #fff;
+    border: 1px solid #c3c4c7;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+    padding: 1px 12px;
+    border-left-color: #dba617;
+}
+.hfcm-pro-meta-box-wrap.hfcm-pro-grid .hfcm-pro-fields {
+    border: #ebebeb solid 1px;
+    background: #fafafa;
+    border-radius: 3px;
+}
+.hfcm-pro-meta-box-wrap.hfcm-pro-grid .hfcm-pro-fields>.hfcm-pro-field {
+    position: relative;
+    margin: 0;
+    padding: 15px 12px;
+    border-top: #EEEEEE solid 1px;
+}
+.hfcm-pro-meta-box-wrap.hfcm-pro-grid .hfcm-pro-checkbox-list {
+    column-width: 200px;
+}
+.hfcm-pro-meta-box-wrap.hfcm-pro-grid .hfcm-pro-label {
+    vertical-align: top;
+    margin: 0 0 10px;
+}
+.hfcm-pro-meta-box-wrap.hfcm-pro-grid .hfcm-pro-label label {
+    font-weight: bold;
+}
+.hfcm-pro-warning-notice {
+    padding: 10px;
+}
+.dashicons-hfcm-pro {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px auto;
+    background-image: url("../images/99robots-logo-avatar.svg");
+}
+.nnr-hfcm-pro-tag-box .tag-editor {
+    width: 400px !important;
+    box-shadow: 0 0 0 transparent;
+    border-radius: 4px;
+    border: 1px solid #8c8f94;
+    background-color: #fff;
+}
+.nnr-hfcm-pro-tag-box .tag-editor .ui-autocomplete-input.focus-visible {
+    border: none !important;
+    box-shadow: none !important;
+}
+.nnr-hfcm-pro-tag-box .tag-editor .tag-editor-tag.active .ui-autocomplete-input {
+    height: 25px !important;
+    min-height: 25px !important;
+}
+.nnr-hfcm-pro-tag-box .tag-editor .placeholder {
+    color: #2c3338 !important;
+}
+.nnr-hfcm-pro-autocomplete {
+    width: 400px !important;
+    max-height: 300px;
+    overflow-y: auto;
+}

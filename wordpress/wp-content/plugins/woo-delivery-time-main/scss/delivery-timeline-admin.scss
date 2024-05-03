@@ -1,0 +1,80 @@
+.delivery-timeline-plugin-section{
+    .form-table{
+        tr{
+            td, th{
+                display: block;
+                padding: 0;
+            }
+        }
+    }
+}
+.delivery-timeline-timelines-wrapper{
+    .delivery-timeline-timeline-row{
+        margin: 2em 0;
+        background-color: #FFF;
+        padding: 20px;
+        border-radius: 10px;
+        position: relative;
+        h3{
+            border-bottom: 1px solid #DDD;
+            margin-bottom: 2em;
+            padding-bottom: 10px;
+        }
+        .delivery-timeline-remove-timeline{
+            position: absolute;
+            top: 30px;
+            right: 20px;
+        }
+        .delivery-timeline-row-content{
+            display: flex;
+            flex-direction: column;
+            gap: 1em;
+            .inputs{
+                display: flex;
+                flex-wrap: wrap;
+                gap: 1em;
+                background-color: #ededed;
+                padding: 1em;
+                border-radius: 5px;
+                label{
+                    display: block;
+                    margin-bottom: 5px;
+                    font-weight: bold;
+                    opacity: .6;
+                }
+                input, textarea{
+                    border: 1px solid #DDD;
+                    padding: 5px 10px;
+                }
+                .input{
+                    &.w-full{
+                        width: 100%;
+                        textarea{
+                            width: 100%;
+                            height: 70px;
+                            padding: 10px;
+                        }
+                    }
+                }
+            }
+        }
+        .categories-inputs{
+            flex-wrap: wrap;
+            .input{
+                width: 100%;
+                .select2-container{
+                    width: 100% !important;
+                    .select2-selection{
+                        padding: 10px;
+                        border: 1px solid #DDD;
+                        .select2-selection__choice{
+                            background-color: var(--woocommerce);
+                            padding: 5px;
+                            color: #FFF;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
